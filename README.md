@@ -9,10 +9,10 @@
 
 #__Características del juego__
 
--Números aleatorios diferentes cada vez.
--Pistas útiles para guiarte.
--Contador de intentos.
--Diseño limpio y fácil de usar.
--Funciona directamente en tu navegador.
+- Números aleatorios diferentes cada vez.
+- Pistas útiles para guiarte.
+- Contador de intentos.
+- Diseño limpio y fácil de usar.
+- Funciona directamente en tu navegador.
 
 **Solo abre el archivo *index.html* en tu navegador favorito (Chrome, Firefox, Edge, etc.) y ¡listo! Puedes jugar inmediatamente.**
